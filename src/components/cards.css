@@ -1,0 +1,7 @@
+.cards{
+    height:15rem;
+    width:15rem;
+    display:block;
+    justify-content: space-between;
+    border: 1px solid black;
+}
